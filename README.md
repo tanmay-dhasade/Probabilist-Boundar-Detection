@@ -20,7 +20,9 @@
 ## Algoirthm
 
 ![algo](/Phase1/Files/pb-lite-algo.png)
-<p align="center" ![output](/Phase1/Files/pb-lite-out.png) />
+<p align="center">
+  ![output](/Phase1/Files/pb-lite-out.png) 
+<p/>
 
 1. Open '/Phase1/Code'.
 2. Run 
