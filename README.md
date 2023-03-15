@@ -1,8 +1,5 @@
-# Alohomora
+# Probabilistic Boundary Detection
 
-Course Homework for RBE549 - Computer Vision (Fall 2022)
-
-Master of Science in Robotics Engineering at [Worcester Polytechnic Institute](https://www.wpi.edu/)
 
 ## Requirements:
 
@@ -20,7 +17,12 @@ Master of Science in Robotics Engineering at [Worcester Polytechnic Institute](h
 
 ### Phase 1:
 
-1. Open 'Alohomora/Phase1/Code'.
+## Algoirthm
+
+![algo](/Phase1/Files/pb-lite-algo.png)
+![output](/Phase1/Files/pb-lite-out.png)
+
+1. Open '/Phase1/Code'.
 2. Run 
 ```
 python3 Wrapper.py
@@ -30,7 +32,7 @@ python3 Wrapper.py
 ### Phase 2:
 
 #### Training:
-1. To start training model open 'Alohomora/Phase2/Code'
+1. To start training model open 'Phase2/Code'
 2. Run 
 ```
 python3 Train.py
@@ -44,6 +46,3 @@ E.g. To load DenseNet model, run the following command:
 ```
 python3 Test.py --ModelPath ../Checkpoints_dense/model.ckpt
 ```
-## References
-
-1. https://rbe549.github.io/fall2022/hw/hw0/
